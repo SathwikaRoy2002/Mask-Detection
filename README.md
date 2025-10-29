@@ -43,3 +43,4 @@ python detect_mask_video.py
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 * https://ieeexplore.ieee.org/document/9342585
+
